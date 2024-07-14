@@ -1,6 +1,5 @@
 # Hi there 👋
-
-## About
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/smiling-face-with-sunglasses_1f60e.png" width="30" height="30"/> About
 
 I'm a Computer Systems Engineering student
 
