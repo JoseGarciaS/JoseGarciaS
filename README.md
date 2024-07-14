@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="40" height="40"/>
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/smiling-face-with-sunglasses_1f60e.png" width="30" height="30"/> About
 
 I'm a Computer Systems Engineering student
